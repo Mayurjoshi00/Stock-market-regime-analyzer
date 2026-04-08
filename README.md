@@ -192,14 +192,3 @@ README.md
 
 Free to use for research and learning.
 
----
-
-If you want, I can also:
-
-* add GitHub badges
-* add screenshots
-* make it resume-ready
-* convert to notebook
-* add backtesting framework
-
-Just say the word.
